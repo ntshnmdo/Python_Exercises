@@ -1,0 +1,14 @@
+# Normal Calculation
+print (2+3*4)
+# Floating_Point_Division
+print(2/4) # / Using forward slash is "floating point division" - you get answer in point/decimal always.
+print(8/2)
+# Integer_Division(//) - It cuts out the fraction part.
+print(4//2)
+print(22//7)
+print(2//4)
+#Exponent (**)
+print(2**3)
+print(2**0.5)
+#Rounding_Off
+print(round(2**0.5,4))
