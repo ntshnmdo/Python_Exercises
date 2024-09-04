@@ -3,9 +3,9 @@
 # Concatenate means to add strings
 # We add strings by using + sign between strings
 
-first_name = "Nitish " # 1st string
+first_name = "Nitish" # 1st string
 last_name = "Namdeo" # 2nd string
-full_name = first_name + " " + last_name # To give gap between two letters, we've used "". 
+full_name = first_name+" "+last_name # To give gap between two letters, we've used "". 
 # full_name is the new concatenate string of 1st and 2nd string.
 print(full_name)
 

@@ -15,4 +15,4 @@ print("Your Age is " + age)
 
 # here age is a number but since age is used as an input func therefore it is taken as str.
 
-# if we want to input number we use int(input("")), int is integer
+# if we want to input number we use int(input("")), int is integer. But that will not concatenate with str

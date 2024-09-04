@@ -8,7 +8,7 @@ print("hello 'hello' ")
 #escape sequence
 print("hello \"hello\" ")
 print("hello \"hello\' ")
-print("line A \n line B")
+print("line A \nline B")
 print("line A \t line B")
 print("this is backslash \\")
 print("this is double backslash \\\\")
@@ -20,6 +20,7 @@ print(r"line A \n line B") # r is a raw string which makes any text under "" as 
 #python as calculator
 print(2+3)
 '''
+Remember Precedences Order (PEMDAS) : Parenthesis > Exponential > Multiplication = Division > Addition = Subtraction.
     () highest
     **  # Exponent  #right to left
     *,/,//,%   #left to right
